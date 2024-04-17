@@ -1,0 +1,5 @@
+{
+  "ls": "passwords.txt",
+  "cat passwords.txt": "you are a hacker!",
+  "rm -rf": "you are an evil hacker!"
+}

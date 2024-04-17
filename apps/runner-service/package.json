@@ -1,0 +1,20 @@
+{
+  "name": "runner-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild ./src/index.ts --bundle --platform=node --outdir=dist/",
+    "start": "node dist/index.js",
+    "dev": "yarn build && yarn start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21"
+  }
+}

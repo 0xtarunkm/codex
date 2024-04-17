@@ -2,6 +2,8 @@
 
 https://github.com/tarunclub/codex/assets/102040059/55344307-e67b-43fa-a242-4010d6a4a6aa
 
+<img width="1406" alt="Screenshot 2024-04-17 at 5 12 06 PM" src="https://github.com/tarunclub/codex/assets/102040059/394121c9-dc0c-4fdb-93f8-8f1308d7935d">
+
 ### Key Features
 
 - **Supported Languages:** React and Node.js
